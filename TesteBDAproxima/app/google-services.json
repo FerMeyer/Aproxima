@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "871492715123",
+    "firebase_url": "https://aproxima-frens.firebaseio.com",
+    "project_id": "aproxima-frens",
+    "storage_bucket": "aproxima-frens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871492715123:android:7b982e08c2cb1dee",
+        "android_client_info": {
+          "package_name": "com.example.eduardoparreira.aproxima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871492715123-7h2fm6briri0grcs95qdbqkiqsakd1da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduardoparreira.aproxima",
+            "certificate_hash": "8d5e8899fce6f9cc774c55e80fe67cd59e78874f"
+          }
+        },
+        {
+          "client_id": "871492715123-qs3560lon920gqvgphqdeksfp4flnnr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGPW5QlriB4QPuTAkC4fi_faePYp1H9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871492715123-qs3560lon920gqvgphqdeksfp4flnnr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871492715123:android:2c534329bf95e910",
+        "android_client_info": {
+          "package_name": "com.example.rapha.testebdaproxima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871492715123-sl6adggc91kmkfrjv6uvqgs8sl6voqn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rapha.testebdaproxima",
+            "certificate_hash": "8ad3ee3940cabd70384696a6b9247c7202cb5d4c"
+          }
+        },
+        {
+          "client_id": "871492715123-qs3560lon920gqvgphqdeksfp4flnnr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGPW5QlriB4QPuTAkC4fi_faePYp1H9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871492715123-qs3560lon920gqvgphqdeksfp4flnnr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
